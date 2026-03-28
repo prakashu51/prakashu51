@@ -103,7 +103,12 @@ I’ve worked across multiple industries and product types, including:
 
 ## Featured Projects
 
-Replace these with your real repositories for maximum hiring impact.
+1.Redis-otp-manager , a lightweight npm package to manage all your otp and token links securely
+2. Tg bot to auto scap the web or channel and post automation along with telethon worker to assist it
+3. Smart filler chrome based extension to automate the form filling for repetitive works very handy for QA and devs.
+4. Worker management portal to connect with the labour and hiring persons
+5. Gulugulu , anonymous chat based messaging app based on socket and node
+6. multiple other projects apart from this managed plus maintained 😃
 
 ### Scalable Backend Platforms
 Designed and delivered backend systems focused on maintainability, scalability, integrations, and high ownership execution.
